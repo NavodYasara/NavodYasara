@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Navod Yasara</h1>
 <h3 align="center">A passionate IT Undergraduate from Sri Lanka</h3>
+<h3 align="center">Go back to view Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navodyasara&label=Profile%20views&color=0e75b6&style=flat" alt="navodyasara" /> </p>
 
