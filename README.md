@@ -3,7 +3,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Navod Yasara</h1>
-<h3 align="center">A passionate IT Graduate from Sri Lanka</h3>
+<h3 align="center">A passionate IT Undergraduate from Sri Lanka</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=navodyasara&label=Profile%20views&color=0e75b6&style=flat" alt="navodyasara" /> 
+</p>
 
 <br>
 
@@ -41,6 +45,9 @@
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+      </a>
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/>
       </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
